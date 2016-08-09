@@ -1,0 +1,14 @@
+{
+  "appname": "default access",
+  "scope": "",
+  "clientid": "9DEFCD57-F31B-48BA-9ABC-8FF2F57AFA8F",
+  "buyerid": "Connor_Lata_buyer",
+  "environment": "qa",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
